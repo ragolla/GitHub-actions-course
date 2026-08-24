@@ -7,7 +7,7 @@ on:
 
 jobs:
   hello:
-    runs-on: ubuntu-latest
+    runs-on: macOS
 
     steps:
       - name: Print message
